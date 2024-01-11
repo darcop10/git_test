@@ -1,3 +1,3 @@
 # git_test
-    My fist Github repo!
-    Hellow world
+    My first Github repo!
+    Hello world
